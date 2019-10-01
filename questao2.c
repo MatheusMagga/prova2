@@ -1,3 +1,4 @@
+//Matheus de Almeida Magalhaes
 #include <stdio.h>
 #include <string.h>
 #define TAM 20
